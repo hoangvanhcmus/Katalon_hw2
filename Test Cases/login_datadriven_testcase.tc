@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>signup_datadriven_testcase</name>
+   <name>login_datadriven_testcase</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>6ef1d2f2-563e-44df-b9ad-a26d78f027de</testCaseGuid>
+   <testCaseGuid>e6bd0298-6abc-442e-bd63-5861e4a8175a</testCaseGuid>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>0a43cfe4-6238-4197-975b-3182c54cf8af</id>
-      <masked>false</masked>
-      <name>email</name>
-   </variable>
-   <variable>
-      <defaultValue>''</defaultValue>
-      <description></description>
-      <id>671b940e-68a3-4069-b7df-afdbda3cd6b1</id>
+      <id>f7ce8662-80ca-4fd4-b9b3-1fe0276d172c</id>
       <masked>false</masked>
       <name>usn</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>f9506c50-7218-41f3-b89d-ac703ec79585</id>
+      <id>098e4e4d-d780-4609-9053-6174908f1108</id>
       <masked>false</masked>
       <name>pwd</name>
    </variable>

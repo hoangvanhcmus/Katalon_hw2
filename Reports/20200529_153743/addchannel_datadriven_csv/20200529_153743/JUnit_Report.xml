@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="addchannel_datadriven_csv" time="92.933" tests="5" failures="0" errors="0">
+   <testsuite name="addchannel_datadriven_csv" tests="5" failures="0" errors="0" time="92.933" timestamp="2020-05-29 15:37:44" hostname="Van Hoang - DESKTOP-P2TV5PF" id="Test Suites/addchannel_datadriven_csv">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Van Hoang\\git\\1512660_hw2_katalon\\Reports\\20200529_153743\\addchannel_datadriven_csv\\20200529_153743"/>
+         <property name="logFiles" value="C:\\Users\\Van Hoang\\git\\1512660_hw2_katalon\\Reports\\20200529_153743\\addchannel_datadriven_csv\\20200529_153743\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Van Hoang - DESKTOP-P2TV5PF"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="7.4.0.1"/>
+         <property name="browser" value="Chrome 83.0.4103.61"/>
+         <property name="hostAddress" value="192.168.1.6"/>
+         <property name="sessionId" value="1ec9e14c4a4f8dce71f25665858ce467"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0, executionList=}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/addChannel_datadriven_testcase" time="20.858" classname="Test Cases/addChannel_datadriven_testcase" status="PASSED">
+         <system-out><![CDATA[2020-05-29 15:37:44 - [TEST_CASE][PASSED] - Test Cases/addChannel_datadriven_testcase: Test Cases/addChannel_datadriven_testcase
+
+2020-05-29 15:37:45 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2020-05-29 15:37:45 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2020-05-29 15:37:45 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2020-05-29 15:37:49 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2020-05-29 15:37:49 - [TEST_STEP][PASSED] - navigateToUrl("https://hw2katalonkattermost.herokuapp.com/login"): Navigate to 'https://hw2katalonkattermost.herokuapp.com/login' successfully
+
+2020-05-29 15:37:53 - [MESSAGE][PASSED] - Navigate to 'https://hw2katalonkattermost.herokuapp.com/login' successfully
+
+2020-05-29 15:37:53 - [TEST_STEP][PASSED] - setText(findTestObject("Page_Mattermost/input_All team communication in one place s_703ef5"), "vanhoang"): Text 'vanhoang' is set on object 'Object Repository/Page_Mattermost/input_All team communication in one place s_703ef5'
+
+2020-05-29 15:37:58 - [MESSAGE][PASSED] - Text 'vanhoang' is set on object 'Object Repository/Page_Mattermost/input_All team communication in one place s_703ef5'
+
+2020-05-29 15:37:58 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Page_Mattermost/input_All team communication in one place s_2f2733"), "iGDxf8hSRT4="): Text ****** has been set on object 'Object Repository/Page_Mattermost/input_All team communication in one place s_2f2733'
+
+2020-05-29 15:37:59 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Mattermost/input_All team communication in one place s_2f2733'
+
+2020-05-29 15:37:59 - [TEST_STEP][PASSED] - click(findTestObject("Page_Mattermost/span_Sign in")): Object: 'Object Repository/Page_Mattermost/span_Sign in' is clicked on
+
+2020-05-29 15:38:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Mattermost/span_Sign in' is clicked on
+
+2020-05-29 15:38:00 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Town Square - test Mattermost/span_")): Object: 'Object Repository/Page_Town Square - test Mattermost/span_' is clicked on
+
+2020-05-29 15:38:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Town Square - test Mattermost/span_' is clicked on
+
+2020-05-29 15:38:02 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Town Square - test Mattermost/input_Name_newChannelName"), name): Text '' is set on object 'Object Repository/Page_Town Square - test Mattermost/input_Name_newChannelName'
+
+2020-05-29 15:38:03 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/Page_Town Square - test Mattermost/input_Name_newChannelName'
+
+2020-05-29 15:38:03 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Town Square - test Mattermost/textarea_(optional)_newChannelPurpose"), opt1): Text 'acb' is set on object 'Object Repository/Page_Town Square - test Mattermost/textarea_(optional)_newChannelPurpose'
+
+2020-05-29 15:38:03 - [MESSAGE][PASSED] - Text 'acb' is set on object 'Object Repository/Page_Town Square - test Mattermost/textarea_(optional)_newChannelPurpose'
+
+2020-05-29 15:38:03 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Town Square - test Mattermost/textarea_(optional)_newChannelHeader"), opt2): Text 'abc' is set on object 'Object Repository/Page_Town Square - test Mattermost/textarea_(optional)_newChannelHeader'
+
+2020-05-29 15:38:04 - [MESSAGE][PASSED] - Text 'abc' is set on object 'Object Repository/Page_Town Square - test Mattermost/textarea_(optional)_newChannelHeader'
+
+2020-05-29 15:38:04 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Town Square - test Mattermost/span_Create Channel")): Object: 'Object Repository/Page_Town Square - test Mattermost/span_Create Channel' is clicked on
+
+2020-05-29 15:38:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Town Square - test Mattermost/span_Create Channel' is clicked on
+
+2020-05-29 15:38:05 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2020-05-29 15:38:05 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/addChannel_datadriven_testcase" time="18.193" classname="Test Cases/addChannel_datadriven_testcase" status="PASSED">
+         <system-out><![CDATA[2020-05-29 15:38:05 - [TEST_CASE][PASSED] - Test Cases/addChannel_datadriven_testcase: Test Cases/addChannel_datadriven_testcase
+
+2020-05-29 15:38:05 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2020-05-29 15:38:05 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2020-05-29 15:38:05 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2020-05-29 15:38:08 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2020-05-29 15:38:08 - [TEST_STEP][PASSED] - navigateToUrl("https://hw2katalonkattermost.herokuapp.com/login"): Navigate to 'https://hw2katalonkattermost.herokuapp.com/login' successfully
+
+2020-05-29 15:38:12 - [MESSAGE][PASSED] - Navigate to 'https://hw2katalonkattermost.herokuapp.com/login' successfully
+
+2020-05-29 15:38:12 - [TEST_STEP][PASSED] - setText(findTestObject("Page_Mattermost/input_All team communication in one place s_703ef5"), "vanhoang"): Text 'vanhoang' is set on object 'Object Repository/Page_Mattermost/input_All team communication in one place s_703ef5'
+
+2020-05-29 15:38:17 - [MESSAGE][PASSED] - Text 'vanhoang' is set on object 'Object Repository/Page_Mattermost/input_All team communication in one place s_703ef5'
+
+2020-05-29 15:38:17 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Page_Mattermost/input_All team communication in one place s_2f2733"), "iGDxf8hSRT4="): Text ****** has been set on object 'Object Repository/Page_Mattermost/input_All team communication in one place s_2f2733'
+
+2020-05-29 15:38:17 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Mattermost/input_All team communication in one place s_2f2733'
+
+2020-05-29 15:38:17 - [TEST_STEP][PASSED] - click(findTestObject("Page_Mattermost/span_Sign in")): Object: 'Object Repository/Page_Mattermost/span_Sign in' is clicked on
+
+2020-05-29 15:38:18 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Mattermost/span_Sign in' is clicked on
+
+2020-05-29 15:38:18 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Town Square - test Mattermost/span_")): Object: 'Object Repository/Page_Town Square - test Mattermost/span_' is clicked on
+
+2020-05-29 15:38:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Town Square - test Mattermost/span_' is clicked on
+
+2020-05-29 15:38:21 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Town Square - test Mattermost/input_Name_newChannelName"), name): Text '' is set on object 'Object Repository/Page_Town Square - test Mattermost/input_Name_newChannelName'
+
+2020-05-29 15:38:21 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/Page_Town Square - test Mattermost/input_Name_newChannelName'
+
+2020-05-29 15:38:21 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Town Square - test Mattermost/textarea_(optional)_newChannelPurpose"), opt1): Text 'abc' is set on object 'Object Repository/Page_Town Square - test Mattermost/textarea_(optional)_newChannelPurpose'
+
+2020-05-29 15:38:22 - [MESSAGE][PASSED] - Text 'abc' is set on object 'Object Repository/Page_Town Square - test Mattermost/textarea_(optional)_newChannelPurpose'
+
+2020-05-29 15:38:22 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Town Square - test Mattermost/textarea_(optional)_newChannelHeader"), opt2): Text '' is set on object 'Object Repository/Page_Town Square - test Mattermost/textarea_(optional)_newChannelHeader'
+
+2020-05-29 15:38:23 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/Page_Town Square - test Mattermost/textarea_(optional)_newChannelHeader'
+
+2020-05-29 15:38:23 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Town Square - test Mattermost/span_Create Channel")): Object: 'Object Repository/Page_Town Square - test Mattermost/span_Create Channel' is clicked on
+
+2020-05-29 15:38:23 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Town Square - test Mattermost/span_Create Channel' is clicked on
+
+2020-05-29 15:38:23 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2020-05-29 15:38:24 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/addChannel_datadriven_testcase" time="17.953" classname="Test Cases/addChannel_datadriven_testcase" status="PASSED">
+         <system-out><![CDATA[2020-05-29 15:38:24 - [TEST_CASE][PASSED] - Test Cases/addChannel_datadriven_testcase: Test Cases/addChannel_datadriven_testcase
+
+2020-05-29 15:38:24 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2020-05-29 15:38:24 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2020-05-29 15:38:24 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2020-05-29 15:38:27 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2020-05-29 15:38:27 - [TEST_STEP][PASSED] - navigateToUrl("https://hw2katalonkattermost.herokuapp.com/login"): Navigate to 'https://hw2katalonkattermost.herokuapp.com/login' successfully
+
+2020-05-29 15:38:30 - [MESSAGE][PASSED] - Navigate to 'https://hw2katalonkattermost.herokuapp.com/login' successfully
+
+2020-05-29 15:38:30 - [TEST_STEP][PASSED] - setText(findTestObject("Page_Mattermost/input_All team communication in one place s_703ef5"), "vanhoang"): Text 'vanhoang' is set on object 'Object Repository/Page_Mattermost/input_All team communication in one place s_703ef5'
+
+2020-05-29 15:38:35 - [MESSAGE][PASSED] - Text 'vanhoang' is set on object 'Object Repository/Page_Mattermost/input_All team communication in one place s_703ef5'
+
+2020-05-29 15:38:35 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Page_Mattermost/input_All team communication in one place s_2f2733"), "iGDxf8hSRT4="): Text ****** has been set on object 'Object Repository/Page_Mattermost/input_All team communication in one place s_2f2733'
+
+2020-05-29 15:38:35 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Mattermost/input_All team communication in one place s_2f2733'
+
+2020-05-29 15:38:35 - [TEST_STEP][PASSED] - click(findTestObject("Page_Mattermost/span_Sign in")): Object: 'Object Repository/Page_Mattermost/span_Sign in' is clicked on
+
+2020-05-29 15:38:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Mattermost/span_Sign in' is clicked on
+
+2020-05-29 15:38:36 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Town Square - test Mattermost/span_")): Object: 'Object Repository/Page_Town Square - test Mattermost/span_' is clicked on
+
+2020-05-29 15:38:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Town Square - test Mattermost/span_' is clicked on
+
+2020-05-29 15:38:39 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Town Square - test Mattermost/input_Name_newChannelName"), name): Text '' is set on object 'Object Repository/Page_Town Square - test Mattermost/input_Name_newChannelName'
+
+2020-05-29 15:38:39 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/Page_Town Square - test Mattermost/input_Name_newChannelName'
+
+2020-05-29 15:38:39 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Town Square - test Mattermost/textarea_(optional)_newChannelPurpose"), opt1): Text '' is set on object 'Object Repository/Page_Town Square - test Mattermost/textarea_(optional)_newChannelPurpose'
+
+2020-05-29 15:38:40 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/Page_Town Square - test Mattermost/textarea_(optional)_newChannelPurpose'
+
+2020-05-29 15:38:40 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Town Square - test Mattermost/textarea_(optional)_newChannelHeader"), opt2): Text 'acb' is set on object 'Object Repository/Page_Town Square - test Mattermost/textarea_(optional)_newChannelHeader'
+
+2020-05-29 15:38:40 - [MESSAGE][PASSED] - Text 'acb' is set on object 'Object Repository/Page_Town Square - test Mattermost/textarea_(optional)_newChannelHeader'
+
+2020-05-29 15:38:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Town Square - test Mattermost/span_Create Channel")): Object: 'Object Repository/Page_Town Square - test Mattermost/span_Create Channel' is clicked on
+
+2020-05-29 15:38:41 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Town Square - test Mattermost/span_Create Channel' is clicked on
+
+2020-05-29 15:38:41 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2020-05-29 15:38:41 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/addChannel_datadriven_testcase" time="17.362" classname="Test Cases/addChannel_datadriven_testcase" status="PASSED">
+         <system-out><![CDATA[2020-05-29 15:38:41 - [TEST_CASE][PASSED] - Test Cases/addChannel_datadriven_testcase: Test Cases/addChannel_datadriven_testcase
+
+2020-05-29 15:38:42 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2020-05-29 15:38:42 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2020-05-29 15:38:42 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2020-05-29 15:38:45 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2020-05-29 15:38:45 - [TEST_STEP][PASSED] - navigateToUrl("https://hw2katalonkattermost.herokuapp.com/login"): Navigate to 'https://hw2katalonkattermost.herokuapp.com/login' successfully
+
+2020-05-29 15:38:48 - [MESSAGE][PASSED] - Navigate to 'https://hw2katalonkattermost.herokuapp.com/login' successfully
+
+2020-05-29 15:38:48 - [TEST_STEP][PASSED] - setText(findTestObject("Page_Mattermost/input_All team communication in one place s_703ef5"), "vanhoang"): Text 'vanhoang' is set on object 'Object Repository/Page_Mattermost/input_All team communication in one place s_703ef5'
+
+2020-05-29 15:38:52 - [MESSAGE][PASSED] - Text 'vanhoang' is set on object 'Object Repository/Page_Mattermost/input_All team communication in one place s_703ef5'
+
+2020-05-29 15:38:52 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Page_Mattermost/input_All team communication in one place s_2f2733"), "iGDxf8hSRT4="): Text ****** has been set on object 'Object Repository/Page_Mattermost/input_All team communication in one place s_2f2733'
+
+2020-05-29 15:38:53 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Mattermost/input_All team communication in one place s_2f2733'
+
+2020-05-29 15:38:53 - [TEST_STEP][PASSED] - click(findTestObject("Page_Mattermost/span_Sign in")): Object: 'Object Repository/Page_Mattermost/span_Sign in' is clicked on
+
+2020-05-29 15:38:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Mattermost/span_Sign in' is clicked on
+
+2020-05-29 15:38:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Town Square - test Mattermost/span_")): Object: 'Object Repository/Page_Town Square - test Mattermost/span_' is clicked on
+
+2020-05-29 15:38:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Town Square - test Mattermost/span_' is clicked on
+
+2020-05-29 15:38:56 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Town Square - test Mattermost/input_Name_newChannelName"), name): Text 'abc' is set on object 'Object Repository/Page_Town Square - test Mattermost/input_Name_newChannelName'
+
+2020-05-29 15:38:57 - [MESSAGE][PASSED] - Text 'abc' is set on object 'Object Repository/Page_Town Square - test Mattermost/input_Name_newChannelName'
+
+2020-05-29 15:38:57 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Town Square - test Mattermost/textarea_(optional)_newChannelPurpose"), opt1): Text '' is set on object 'Object Repository/Page_Town Square - test Mattermost/textarea_(optional)_newChannelPurpose'
+
+2020-05-29 15:38:57 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/Page_Town Square - test Mattermost/textarea_(optional)_newChannelPurpose'
+
+2020-05-29 15:38:57 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Town Square - test Mattermost/textarea_(optional)_newChannelHeader"), opt2): Text '' is set on object 'Object Repository/Page_Town Square - test Mattermost/textarea_(optional)_newChannelHeader'
+
+2020-05-29 15:38:58 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/Page_Town Square - test Mattermost/textarea_(optional)_newChannelHeader'
+
+2020-05-29 15:38:58 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Town Square - test Mattermost/span_Create Channel")): Object: 'Object Repository/Page_Town Square - test Mattermost/span_Create Channel' is clicked on
+
+2020-05-29 15:38:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Town Square - test Mattermost/span_Create Channel' is clicked on
+
+2020-05-29 15:38:58 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2020-05-29 15:38:59 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/addChannel_datadriven_testcase" time="18.188" classname="Test Cases/addChannel_datadriven_testcase" status="PASSED">
+         <system-out><![CDATA[2020-05-29 15:38:59 - [TEST_CASE][PASSED] - Test Cases/addChannel_datadriven_testcase: Test Cases/addChannel_datadriven_testcase
+
+2020-05-29 15:38:59 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2020-05-29 15:38:59 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2020-05-29 15:38:59 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2020-05-29 15:39:02 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2020-05-29 15:39:02 - [TEST_STEP][PASSED] - navigateToUrl("https://hw2katalonkattermost.herokuapp.com/login"): Navigate to 'https://hw2katalonkattermost.herokuapp.com/login' successfully
+
+2020-05-29 15:39:05 - [MESSAGE][PASSED] - Navigate to 'https://hw2katalonkattermost.herokuapp.com/login' successfully
+
+2020-05-29 15:39:05 - [TEST_STEP][PASSED] - setText(findTestObject("Page_Mattermost/input_All team communication in one place s_703ef5"), "vanhoang"): Text 'vanhoang' is set on object 'Object Repository/Page_Mattermost/input_All team communication in one place s_703ef5'
+
+2020-05-29 15:39:10 - [MESSAGE][PASSED] - Text 'vanhoang' is set on object 'Object Repository/Page_Mattermost/input_All team communication in one place s_703ef5'
+
+2020-05-29 15:39:10 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Page_Mattermost/input_All team communication in one place s_2f2733"), "iGDxf8hSRT4="): Text ****** has been set on object 'Object Repository/Page_Mattermost/input_All team communication in one place s_2f2733'
+
+2020-05-29 15:39:11 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Mattermost/input_All team communication in one place s_2f2733'
+
+2020-05-29 15:39:11 - [TEST_STEP][PASSED] - click(findTestObject("Page_Mattermost/span_Sign in")): Object: 'Object Repository/Page_Mattermost/span_Sign in' is clicked on
+
+2020-05-29 15:39:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Mattermost/span_Sign in' is clicked on
+
+2020-05-29 15:39:11 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Town Square - test Mattermost/span_")): Object: 'Object Repository/Page_Town Square - test Mattermost/span_' is clicked on
+
+2020-05-29 15:39:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Town Square - test Mattermost/span_' is clicked on
+
+2020-05-29 15:39:14 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Town Square - test Mattermost/input_Name_newChannelName"), name): Text 'test' is set on object 'Object Repository/Page_Town Square - test Mattermost/input_Name_newChannelName'
+
+2020-05-29 15:39:14 - [MESSAGE][PASSED] - Text 'test' is set on object 'Object Repository/Page_Town Square - test Mattermost/input_Name_newChannelName'
+
+2020-05-29 15:39:14 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Town Square - test Mattermost/textarea_(optional)_newChannelPurpose"), opt1): Text 'abc' is set on object 'Object Repository/Page_Town Square - test Mattermost/textarea_(optional)_newChannelPurpose'
+
+2020-05-29 15:39:15 - [MESSAGE][PASSED] - Text 'abc' is set on object 'Object Repository/Page_Town Square - test Mattermost/textarea_(optional)_newChannelPurpose'
+
+2020-05-29 15:39:15 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Town Square - test Mattermost/textarea_(optional)_newChannelHeader"), opt2): Text 'abc' is set on object 'Object Repository/Page_Town Square - test Mattermost/textarea_(optional)_newChannelHeader'
+
+2020-05-29 15:39:16 - [MESSAGE][PASSED] - Text 'abc' is set on object 'Object Repository/Page_Town Square - test Mattermost/textarea_(optional)_newChannelHeader'
+
+2020-05-29 15:39:16 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Town Square - test Mattermost/span_Create Channel")): Object: 'Object Repository/Page_Town Square - test Mattermost/span_Create Channel' is clicked on
+
+2020-05-29 15:39:16 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Town Square - test Mattermost/span_Create Channel' is clicked on
+
+2020-05-29 15:39:16 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2020-05-29 15:39:17 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2020-05-29 15:37:44 - [TEST_SUITE][PASSED] - addchannel_datadriven_csv: Test Cases/addChannel_datadriven_testcase]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>signup_datadriven_testcase</name>
+   <name>addPrivateChannel_datadriven_testcase</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>6ef1d2f2-563e-44df-b9ad-a26d78f027de</testCaseGuid>
+   <testCaseGuid>7fe7c02b-5158-447d-8a5f-77e9a9ac6cbf</testCaseGuid>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>0a43cfe4-6238-4197-975b-3182c54cf8af</id>
+      <id>2ab9c0f9-cd60-4206-ae82-dc078cefa1fd</id>
       <masked>false</masked>
-      <name>email</name>
+      <name>name</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>671b940e-68a3-4069-b7df-afdbda3cd6b1</id>
+      <id>fe604a49-5307-48fd-86b0-06fb34fb8699</id>
       <masked>false</masked>
-      <name>usn</name>
+      <name>opt1</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>f9506c50-7218-41f3-b89d-ac703ec79585</id>
+      <id>347b1ee3-aeb1-415e-86ff-f540090c0dfd</id>
       <masked>false</masked>
-      <name>pwd</name>
+      <name>opt2</name>
    </variable>
 </TestCaseEntity>

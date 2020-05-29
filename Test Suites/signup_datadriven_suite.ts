@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>signup_datadriven_suite</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>d47ce0bc-18d1-4fdc-9251-bde235fd6195</testSuiteGuid>
+   <testCaseLink>
+      <guid>3d7b7214-f8c5-4171-ad1d-52abfd3ac896</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/signup_datadriven_testcase</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>39651d9e-2778-47c2-94af-3d2c6dd46b51</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/signup_datadriven_csv</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>39651d9e-2778-47c2-94af-3d2c6dd46b51</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>email</value>
+         <variableId>0a43cfe4-6238-4197-975b-3182c54cf8af</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>39651d9e-2778-47c2-94af-3d2c6dd46b51</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>usn</value>
+         <variableId>671b940e-68a3-4069-b7df-afdbda3cd6b1</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>39651d9e-2778-47c2-94af-3d2c6dd46b51</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>pwd</value>
+         <variableId>f9506c50-7218-41f3-b89d-ac703ec79585</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

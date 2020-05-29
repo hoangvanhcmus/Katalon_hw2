@@ -18,18 +18,25 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://hw2katalonkattermost.herokuapp.com/signup_email')
+WebUI.navigateToUrl('https://hw2katalonkattermost.herokuapp.com/login')
 
-WebUI.setText(findTestObject('Object Repository/Page_Mattermost/input_concat(What  s your email address)_email'), email)
+WebUI.setText(findTestObject('Page_Mattermost/input_All team communication in one place s_703ef5'), 'vanhoang')
 
-WebUI.setText(findTestObject('Object Repository/Page_Mattermost/input_Choose your username_name'), usn)
+WebUI.setEncryptedText(findTestObject('Page_Mattermost/input_All team communication in one place s_2f2733'), 'iGDxf8hSRT4=')
 
-WebUI.setText(findTestObject('Object Repository/Page_Mattermost/input_Choose your password_password'), pwd)
+WebUI.click(findTestObject('Page_Mattermost/span_Sign in'))
 
-WebUI.click(findTestObject('Object Repository/Page_Mattermost/span_Create Account'))
+WebUI.click(findTestObject('Page_Town Square - test Mattermost/span_'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Mattermost/label_This server does not allow open signu_9345de'), 
-    '')
+WebUI.setText(findTestObject('Page_Town Square - test Mattermost/input_Name_newChannelName'), name)
+
+WebUI.setText(findTestObject('Page_Town Square - test Mattermost/textarea_(optional)_newChannelPurpose'), opt1)
+
+WebUI.setText(findTestObject('Page_Town Square - test Mattermost/textarea_(optional)_newChannelHeader'), opt2)
+
+WebUI.click(findTestObject('Page_Town Square - test Mattermost/span_Create Channel'))
+
+"A channel with that name already exists on the same team" = WebUI.getText(findTestObject('Object Repository/Page_Town Square - test Mattermost/p_A channel with that name already exists o_b26172'))
 
 WebUI.closeBrowser()
 
