@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>teamName_datadriven_internal</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>1dcd5d6c-d852-4c15-9793-13cace93275c</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>%3F.%2F%5C%7E%21%40%23%24%25%5E%26*%28%29</data>
+   <data>something</data>
+   <data>newTeam</data>
+   <data>+++++++++++++++</data>
+   <data>null</data>
+   <data>+++++++++new++++++++++++</data>
+   <data>abcdefghijklmnopqtruvxyz</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>team_name</name>
+      <size>7</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

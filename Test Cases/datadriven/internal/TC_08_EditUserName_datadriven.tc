@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_08_EditUserName_datadriven</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4d35b7e5-5870-406d-8295-6c422e562462</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>24fb1f27-a641-4850-8538-2318b6a4fdd3</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+</TestCaseEntity>

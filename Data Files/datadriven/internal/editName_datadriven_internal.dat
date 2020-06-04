@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>editName_datadriven_internal</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>44dc3e02-46fc-48d9-a8bb-560e38f2df4d</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>%3F.%2F%5C%7E%21%40%23%24%25%5E%26*%28%29 %3F.%2F%5C%7E%21%40%23%24%25%5E%26*%28%29</data>
+   <data>%C3%81nh null</data>
+   <data>%3F.%2F%5C%7E%21%40%23%24%25%5E%26*%28%29 null</data>
+   <data>null Ng%E1%BB%8Dc</data>
+   <data>V%C4%83n Ho%C3%A0ng</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>firstname</name>
+      <size>5</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>lastname</name>
+      <size>5</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>login_datadriven_testcase</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e6bd0298-6abc-442e-bd63-5861e4a8175a</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f7ce8662-80ca-4fd4-b9b3-1fe0276d172c</id>
+      <masked>false</masked>
+      <name>usn</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>098e4e4d-d780-4609-9053-6174908f1108</id>
+      <masked>false</masked>
+      <name>pwd</name>
+   </variable>
+</TestCaseEntity>

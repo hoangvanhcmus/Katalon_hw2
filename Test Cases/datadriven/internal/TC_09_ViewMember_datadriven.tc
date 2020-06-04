@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_09_ViewMember_datadriven</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>11ab4a18-2d4a-4b68-8188-49d73a072420</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>469964ab-7405-410e-a2c1-1cf934fcd931</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+</TestCaseEntity>

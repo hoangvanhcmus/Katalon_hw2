@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>addPrivateChannel_datadriven_testcase</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7fe7c02b-5158-447d-8a5f-77e9a9ac6cbf</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2ab9c0f9-cd60-4206-ae82-dc078cefa1fd</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fe604a49-5307-48fd-86b0-06fb34fb8699</id>
+      <masked>false</masked>
+      <name>opt1</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>347b1ee3-aeb1-415e-86ff-f540090c0dfd</id>
+      <masked>false</masked>
+      <name>opt2</name>
+   </variable>
+</TestCaseEntity>

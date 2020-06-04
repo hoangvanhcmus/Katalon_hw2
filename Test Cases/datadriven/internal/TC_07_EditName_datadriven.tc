@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_07_EditName_datadriven</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c5476f6f-3108-4281-a2c2-52734f20ed21</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b37ec5ea-5fb6-41ad-80f9-f9d8b05ee13c</id>
+      <masked>false</masked>
+      <name>fistname</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>89696182-d92b-47b6-97d7-c1271da07baa</id>
+      <masked>false</masked>
+      <name>lastname</name>
+   </variable>
+</TestCaseEntity>
