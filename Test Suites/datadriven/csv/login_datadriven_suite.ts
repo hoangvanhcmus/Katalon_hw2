@@ -22,7 +22,7 @@
             <iterationType>ALL</iterationType>
             <value></value>
          </iterationEntity>
-         <testDataId>Data Files/datadriven/csv/login_datadriven_csv</testDataId>
+         <testDataId>Data Files/datadriven/csv/login_success_datadriven_csv</testDataId>
       </testDataLink>
       <variableLink>
          <testDataLinkId>a011eb7d-f972-4fbe-93fb-0128d7abadaa</testDataLinkId>
