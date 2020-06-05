@@ -27,11 +27,11 @@ WebUI.setEncryptedText(findTestObject('Object Repository/17/Page_Mattermost/inpu
 
 WebUI.click(findTestObject('Object Repository/17/Page_Mattermost/button_Sign in'))
 
-WebUI.mouseOver(findTestObject('Object Repository/26/Page_Town Square -  Mattermost/div_vanhoang956 AMPinnededited4(edited)'))
+WebUI.click(findTestObject('Object Repository/26/Page_ Town Square - aaaaaaaaaa Mattermost/div_te'))
 
-WebUI.click(findTestObject('Object Repository/26/Page_Town Square -  Mattermost/svg_1'))
+WebUI.click(findTestObject('Object Repository/26/Page_ Town Square - test_1612115 Mattermost/a_26_CreateflagFollow'))
 
-WebUI.click(findTestObject('Object Repository/Page_Town Square -  Mattermost/button_dash_channelHeaderFlagButton'))
+WebUI.click(findTestObject('Object Repository/26/Page_ 26_CreateflagFollow - test_1612115 Ma_5dc954/div_vanhoang419 PMdef'))
 
-WebUI.click(findTestObject('Object Repository/26/Page_Town Square -  Mattermost/svg_1'))
+WebUI.click(findTestObject('Object Repository/26/Page_ 26_CreateflagFollow - test_1612115 Ma_5dc954/svg'))
 

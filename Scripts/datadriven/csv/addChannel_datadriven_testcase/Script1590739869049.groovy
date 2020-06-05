@@ -20,14 +20,13 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://hw2katalonkattermost.herokuapp.com/login')
 
-WebUI.setText(findTestObject('Object Repository/Page_Mattermost/input_All team communication in one place s_703ef5'), 'vanhoang')
+WebUI.setText(findTestObject('Page_Mattermost/input_All team communication in one place s_703ef5'), 'vanhoang')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Mattermost/input_All team communication in one place s_2f2733'), 
-    'iGDxf8hSRT4=')
+WebUI.setEncryptedText(findTestObject('Page_Mattermost/input_All team communication in one place s_2f2733'), 'iGDxf8hSRT4=')
 
-WebUI.click(findTestObject('Object Repository/Page_Mattermost/span_Sign in'))
+WebUI.click(findTestObject('Page_Mattermost/span_Sign in'))
 
-WebUI.click(findTestObject('Page_ Town Square - aaaaaaaaaa Mattermost/span_'))
+WebUI.click(findTestObject('Object Repository/Page_Town Square - test Mattermost/span_'))
 
 WebUI.setText(findTestObject('Object Repository/Page_Town Square - test Mattermost/input_Name_newChannelName'), name)
 

@@ -1,0 +1,5 @@
+{"testCaseName":"Test Cases/changePassword_datadriven_testcase - Iteration 1","testCaseId":"Test Cases/changePassword_datadriven_testcase","bindedValues":{"newpwd":"\u002712345\u0027","newpwd1":"\u002712345\u0027"}}
+{"testCaseName":"Test Cases/changePassword_datadriven_testcase - Iteration 2","testCaseId":"Test Cases/changePassword_datadriven_testcase","bindedValues":{"newpwd":"\u002712345\u0027","curpwd":"\u002712345\u0027"}}
+{"testCaseName":"Test Cases/changePassword_datadriven_testcase - Iteration 3","testCaseId":"Test Cases/changePassword_datadriven_testcase","bindedValues":{"curpwd":"\u002712345\u0027","newpwd1":"\u002712345\u0027"}}
+{"testCaseName":"Test Cases/changePassword_datadriven_testcase - Iteration 4","testCaseId":"Test Cases/changePassword_datadriven_testcase","bindedValues":{"curpwd":"\u002712345\u0027"}}
+{"testCaseName":"Test Cases/changePassword_datadriven_testcase - Iteration 5","testCaseId":"Test Cases/changePassword_datadriven_testcase","bindedValues":{"newpwd":"\u002712345\u0027","curpwd":"\u002712345\u0027","newpwd1":"\u002712345\u0027"}}

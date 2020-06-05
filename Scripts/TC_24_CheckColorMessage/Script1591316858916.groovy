@@ -28,12 +28,16 @@ WebUI.setEncryptedText(findTestObject('Object Repository/15/Page_Mattermost/inpu
 
 WebUI.click(findTestObject('Object Repository/15/Page_Mattermost/button_Sign in'))
 
-WebUI.click(findTestObject('Object Repository/15/Page_Town Square -  Mattermost/time_223 PM'))
+WebUI.click(findTestObject('Object Repository/25/Page_ Town Square - aaaaaaaaaa Mattermost/div_te'))
 
-def css_color = WebUI.getCSSValue(findTestObject('Object Repository/15/Page_Town Square -  Mattermost/div_vanhoang223 PM'), 
+WebUI.click(findTestObject('Object Repository/24/Page_ 24_ChechColorWhenClickTime - test_161_705272/a_24_ChechColorWhenClickTime'))
+
+WebUI.click(findTestObject('Object Repository/24/Page_ 24_ChechColorWhenClickTime - test_161_705272/span_434 PM'))
+
+def css_color = WebUI.getCSSValue(findTestObject('24/Page_ 24_ChechColorWhenClickTime - test_161_705272/div_vanhoang434 PMasffdg'), 
     'color')
 
 println(css_color)
 
-WebUI.verifyEqual(css_color, 'rgb(61, 60, 64)')
+WebUI.verifyEqual(css_color, 'rgba(61, 60, 64,1)')
 

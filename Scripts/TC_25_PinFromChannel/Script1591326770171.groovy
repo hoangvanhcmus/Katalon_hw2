@@ -27,17 +27,23 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Mattermost/input_A
 
 WebUI.click(findTestObject('Object Repository/Page_Mattermost/span_Sign in'))
 
-WebUI.click(findTestObject('Object Repository/Page_Town Square -  Mattermost/div_vanhoang956 AMPinnededited4(edited)'))
+WebUI.click(findTestObject('Object Repository/25/Page_ Town Square - aaaaaaaaaa Mattermost/div_te'))
 
-WebUI.click(findTestObject('Object Repository/Page_Town Square -  Mattermost/button_Pinned_CENTER_button_xrqzsmo6k3bzjmg_580071'))
+WebUI.click(findTestObject('Object Repository/25/Page_ Town Square - test_1612115 Mattermost/span_25_PinFromChannel'))
 
-WebUI.click(findTestObject('Object Repository/Page_Town Square -  Mattermost/button_Unpin from Channel'))
+WebUI.mouseOver(findTestObject('Object Repository/25/Page_ 25_PinFromChannel - test_1612115 Mattermost/div_vanhoang426 PMfine tks'))
 
-WebUI.click(findTestObject('Object Repository/Page_Town Square -  Mattermost/button_Pinned_CENTER_button_xrqzsmo6k3bzjmg_580071'))
+WebUI.click(findTestObject('Object Repository/25/Page_ 25_PinFromChannel - test_1612115 Mattermost/button_vanhoang_CENTER_button_pf6ajsb9o3bru_358b65'))
 
-WebUI.click(findTestObject('Object Repository/Page_Town Square -  Mattermost/button_Pin to Channel'))
+WebUI.click(findTestObject('Object Repository/25/Page_ 25_PinFromChannel - test_1612115 Mattermost/button_Pin to Channel'))
 
-def css_color = WebUI.getCSSValue(findTestObject('Page_Town Square -  Mattermost/span_Pinned'), 'color')
+def css_color = WebUI.getCSSValue(findTestObject('25/Page_ 25_PinFromChannel - test_1612115 Mattermost/span_Pinned'), 'color')
 
 WebUI.verifyEqual(css_color, 'rgba(255, 255, 255, 1)')
+
+WebUI.mouseOver(findTestObject('Object Repository/25/Page_ 25_PinFromChannel - test_1612115 Mattermost/div_vanhoang426 PMPinnedfine tks'))
+
+WebUI.click(findTestObject('Object Repository/25/Page_ 25_PinFromChannel - test_1612115 Mattermost/button_vanhoang_CENTER_button_pf6ajsb9o3bru_358b65'))
+
+WebUI.click(findTestObject('Object Repository/25/Page_ 25_PinFromChannel - test_1612115 Mattermost/button_Unpin from Channel'))
 
