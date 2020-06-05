@@ -15,5 +15,5 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 
-WS.sendRequest(findTestObject('API_TEST/45_API_PUT_change_name'))
+WS.sendRequest(findTestObject('API_TEST/44_API_PUT_change_user_role'))
 

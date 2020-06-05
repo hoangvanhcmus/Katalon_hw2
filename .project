@@ -17,14 +17,14 @@
 	</natures>
 	<linkedResources>
 		<link>
-			<name>kat-3497915977273341554.groovy</name>
-			<type>1</type>
-			<location>C:/Users/VANHOA~1/AppData/Local/Temp/Katalon/Web Services/kat-3497915977273341554.groovy</location>
-		</link>
-		<link>
 			<name>kat-4944488944052378423.groovy</name>
 			<type>1</type>
 			<location>C:/Users/VANHOA~1/AppData/Local/Temp/Katalon/Web Services/kat-4944488944052378423.groovy</location>
+		</link>
+		<link>
+			<name>kat-5846780545017243079.groovy</name>
+			<type>1</type>
+			<location>C:/Users/VANHOA~1/AppData/Local/Temp/Katalon/Web Services/kat-5846780545017243079.groovy</location>
 		</link>
 	</linkedResources>
 	<filteredResources>
@@ -273,6 +273,24 @@
 		</filter>
 		<filter>
 			<id>1591342534992</id>
+			<name></name>
+			<type>6</type>
+			<matcher>
+				<id>org.eclipse.core.resources.regexFilterMatcher</id>
+				<arguments>(.*\.svn-base$)|(.*\.png$)|(.*\.log$)|(.*\.xlsx$)|(.*\.xls$)|(.*\.csv$)|(.*\.txt$)</arguments>
+			</matcher>
+		</filter>
+		<filter>
+			<id>1591343206315</id>
+			<name></name>
+			<type>10</type>
+			<matcher>
+				<id>org.eclipse.core.resources.regexFilterMatcher</id>
+				<arguments>.*\.svn$</arguments>
+			</matcher>
+		</filter>
+		<filter>
+			<id>1591343206341</id>
 			<name></name>
 			<type>6</type>
 			<matcher>
