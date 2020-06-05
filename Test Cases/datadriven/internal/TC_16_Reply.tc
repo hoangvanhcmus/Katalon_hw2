@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_16_Reply</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>17aa93d7-e365-4131-9043-2d912f0ad87a</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>63904978-8c91-4b99-8562-d94d06fc9ec9</id>
+      <masked>false</masked>
+      <name>ContentReply</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_12_CreateIcon_DataDriven</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>93972001-32c5-40c6-8a99-d4cea8d03e7d</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8baf9b35-ef68-4d1e-a241-ae2bd08fd338</id>
+      <masked>false</masked>
+      <name>emoji</name>
+   </variable>
+</TestCaseEntity>
