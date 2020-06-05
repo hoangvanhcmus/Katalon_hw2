@@ -2814,10 +2814,7 @@
   <message>End Test Suite : Test Suites/datadriven/internal/TS_07_EditName_datadriven</message>
   <nestedLevel>0</nestedLevel>
 </record>
-</log>
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE log SYSTEM "logger.dtd">
-<log>
 <record>
   <date>2020-06-03T16:58:44</date>
   <millis>1591178324230</millis>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>15</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>1f85040d-3bc5-4427-9d8f-d86bdcc5f5f3</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>hxfw68i8tj8ninrkibcq3fuhpr_message</data>
+   <data>hxfw68i8tj8ninrkibcq3fuhpr_message</data>
+   <data>hz1bje1ixpbw5jakwk4gk36fio_message</data>
+   <data>1nidews7hjftmffzyq6omkej5e_message</data>
+   <data>3oyr1gpzqbbxxjit83kkp6ypso_message</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>ID</name>
+      <size>5</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>
