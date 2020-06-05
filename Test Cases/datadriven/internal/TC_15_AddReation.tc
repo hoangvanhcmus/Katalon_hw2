@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_15_AddReation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>37871a89-2b62-40b4-b30a-4d11d29e97e9</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>63d63889-dd3a-4488-9d66-26fd31915b0d</id>
+      <masked>false</masked>
+      <name>ID</name>
+   </variable>
+</TestCaseEntity>

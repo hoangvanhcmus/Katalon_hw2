@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-06-05T08:30:33</date>
+  <millis>1591320633214</millis>
+  <sequence>0</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startSuite</method>
+  <thread>1</thread>
+  <message>Start Test Suite : Test Suites/datadriven/internal/TS_15</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="name">TS_15</property>
+  <property name="description"></property>
+  <property name="id">Test Suites/datadriven/internal/TS_15</property>
+</record>
+<record>
+  <date>2020-06-05T08:30:33</date>
+  <millis>1591320633241</millis>
+  <sequence>1</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>hostName = ducnguyen - buitmaithanh-is</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="hostName">ducnguyen - buitmaithanh-is</property>
+</record>
+<record>
+  <date>2020-06-05T08:30:33</date>
+  <millis>1591320633242</millis>
+  <sequence>2</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>os = Windows 10 64bit</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="os">Windows 10 64bit</property>
+</record>
+<record>
+  <date>2020-06-05T08:30:33</date>
+  <millis>1591320633243</millis>
+  <sequence>3</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>hostAddress = 192.168.88.2</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="hostAddress">192.168.88.2</property>
+</record>
+<record>
+  <date>2020-06-05T08:30:33</date>
+  <millis>1591320633244</millis>
+  <sequence>4</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>katalonVersion = 7.5.2.1</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="katalonVersion">7.5.2.1</property>
+</record>
+<record>
+  <date>2020-06-05T08:30:33</date>
+  <millis>1591320633670</millis>
+  <sequence>5</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/datadriven/internal/TC_15_AddReation</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/datadriven/internal/TC_15_AddReation</property>
+  <property name="description"></property>
+  <property name="id">Test Cases/datadriven/internal/TC_15_AddReation</property>
+  <property name="source">D:\\GITHUB\\Katalon_hw2\\Test Cases\\datadriven\\internal\\TC_15_AddReation.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2020-06-05T08:30:33</date>
+  <millis>1591320633705</millis>
+  <sequence>7</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>ID = hxfw68i8tj8ninrkibcq3fuhpr_message</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-06-05T08:30:34</date>
+  <millis>1591320634120</millis>
+  <sequence>8</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : openBrowser(\&amp;quot;\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">19</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2020-06-05T08:30:34</date>
+  <millis>1591320634492</millis>
+  <sequence>10</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Starting &amp;apos;Firefox&amp;apos; driver</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-06-05T08:30:34</date>
+  <millis>1591320634617</millis>
+  <sequence>12</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Action delay is set to 0 milliseconds</message>
+  <nestedLevel>1</nestedLevel>
+</record>

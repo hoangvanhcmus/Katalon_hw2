@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_17_EditMessage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fb38c92c-6e7e-4403-88d3-153d5ac687d3</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>43c26e71-2c42-4353-bf18-5c39674f8188</id>
+      <masked>false</masked>
+      <name>EditText</name>
+   </variable>
+</TestCaseEntity>

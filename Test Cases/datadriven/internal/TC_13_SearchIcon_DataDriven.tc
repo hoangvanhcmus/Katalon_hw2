@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_13_SearchIcon_DataDriven</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1eee1a5c-494e-4978-94a4-1865f689a7b9</testCaseGuid>
+   <variable>
+      <defaultValue>'bea'</defaultValue>
+      <description></description>
+      <id>81662cb1-5c69-4b91-a569-f89378b7ed86</id>
+      <masked>false</masked>
+      <name>EmojiName</name>
+   </variable>
+</TestCaseEntity>
