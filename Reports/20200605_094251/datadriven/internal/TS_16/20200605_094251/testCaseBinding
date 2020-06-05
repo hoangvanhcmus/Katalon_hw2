@@ -1,5 +1,0 @@
-{"testCaseName":"Test Cases/datadriven/internal/TC_16_Reply - Iteration 1","testCaseId":"Test Cases/datadriven/internal/TC_16_Reply","bindedValues":{"ContentReply":"\u0027hello\u0027"}}
-{"testCaseName":"Test Cases/datadriven/internal/TC_16_Reply - Iteration 2","testCaseId":"Test Cases/datadriven/internal/TC_16_Reply","bindedValues":{"ContentReply":"\u0027hi! How are you?\u0027"}}
-{"testCaseName":"Test Cases/datadriven/internal/TC_16_Reply - Iteration 3","testCaseId":"Test Cases/datadriven/internal/TC_16_Reply","bindedValues":{"ContentReply":"\u0027I\\\u0027m fine.\u0027"}}
-{"testCaseName":"Test Cases/datadriven/internal/TC_16_Reply - Iteration 4","testCaseId":"Test Cases/datadriven/internal/TC_16_Reply","bindedValues":{"ContentReply":"\u0027Where do you live?\u0027"}}
-{"testCaseName":"Test Cases/datadriven/internal/TC_16_Reply - Iteration 5","testCaseId":"Test Cases/datadriven/internal/TC_16_Reply","bindedValues":{"ContentReply":"\u0027Nice to meet you.\u0027"}}

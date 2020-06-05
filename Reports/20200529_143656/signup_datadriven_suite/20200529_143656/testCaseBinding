@@ -1,5 +1,0 @@
-{"testCaseName":"Test Cases/signup_datadriven_testcase - Iteration 1","testCaseId":"Test Cases/signup_datadriven_testcase","bindedValues":{"pwd":"\u0027abc123\u0027"}}
-{"testCaseName":"Test Cases/signup_datadriven_testcase - Iteration 2","testCaseId":"Test Cases/signup_datadriven_testcase","bindedValues":{"usn":"\u0027abc\u0027","pwd":"\u0027abc\u0027","email":"\u0027a123\u0027"}}
-{"testCaseName":"Test Cases/signup_datadriven_testcase - Iteration 3","testCaseId":"Test Cases/signup_datadriven_testcase","bindedValues":{"pwd":"\u0027abc123\u0027","email":"\u0027abc@gmail.com\u0027"}}
-{"testCaseName":"Test Cases/signup_datadriven_testcase - Iteration 4","testCaseId":"Test Cases/signup_datadriven_testcase","bindedValues":{"usn":"\u0027abc\u0027","email":"\u0027abc@gmail.com\u0027"}}
-{"testCaseName":"Test Cases/signup_datadriven_testcase - Iteration 5","testCaseId":"Test Cases/signup_datadriven_testcase","bindedValues":{"usn":"\u0027abc\u0027","pwd":"\u0027abc123\u0027"}}

@@ -1,5 +1,0 @@
-{"testCaseName":"Test Cases/datadriven/internal/TC_17_EditMessage - Iteration 1","testCaseId":"Test Cases/datadriven/internal/TC_17_EditMessage","bindedValues":{"EditText":"\u0027edited1\u0027"}}
-{"testCaseName":"Test Cases/datadriven/internal/TC_17_EditMessage - Iteration 2","testCaseId":"Test Cases/datadriven/internal/TC_17_EditMessage","bindedValues":{"EditText":"\u0027edited2\u0027"}}
-{"testCaseName":"Test Cases/datadriven/internal/TC_17_EditMessage - Iteration 3","testCaseId":"Test Cases/datadriven/internal/TC_17_EditMessage","bindedValues":{"EditText":"\u0027edited3\u0027"}}
-{"testCaseName":"Test Cases/datadriven/internal/TC_17_EditMessage - Iteration 4","testCaseId":"Test Cases/datadriven/internal/TC_17_EditMessage","bindedValues":{"EditText":"\u0027edited4\u0027"}}
-{"testCaseName":"Test Cases/datadriven/internal/TC_17_EditMessage - Iteration 5","testCaseId":"Test Cases/datadriven/internal/TC_17_EditMessage","bindedValues":{"EditText":"\u0027edited5\u0027"}}

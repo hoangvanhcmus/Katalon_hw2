@@ -1,5 +1,0 @@
-{"testCaseName":"Test Cases/datadriven/internal/TC_08_EditUserName_datadriven - Iteration 1","testCaseId":"Test Cases/datadriven/internal/TC_08_EditUserName_datadriven","bindedValues":{"username":"\u0027van hoang\u0027"}}
-{"testCaseName":"Test Cases/datadriven/internal/TC_08_EditUserName_datadriven - Iteration 2","testCaseId":"Test Cases/datadriven/internal/TC_08_EditUserName_datadriven","bindedValues":{"username":"\u0027?./\\\\~!@#$%^\u0026*()\u0027"}}
-{"testCaseName":"Test Cases/datadriven/internal/TC_08_EditUserName_datadriven - Iteration 3","testCaseId":"Test Cases/datadriven/internal/TC_08_EditUserName_datadriven","bindedValues":{"username":"\u0027                           \u0027"}}
-{"testCaseName":"Test Cases/datadriven/internal/TC_08_EditUserName_datadriven - Iteration 4","testCaseId":"Test Cases/datadriven/internal/TC_08_EditUserName_datadriven","bindedValues":{"username":"\u0027van?./\\\\~!@#$%^\u0026*()\u0027"}}
-{"testCaseName":"Test Cases/datadriven/internal/TC_08_EditUserName_datadriven - Iteration 5","testCaseId":"Test Cases/datadriven/internal/TC_08_EditUserName_datadriven","bindedValues":{"username":"\u0027vanhoang\u0027"}}

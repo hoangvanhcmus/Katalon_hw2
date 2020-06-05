@@ -28,8 +28,5 @@ WebUI.setText(findTestObject('Object Repository/Page_Mattermost/input_Choose you
 
 WebUI.click(findTestObject('Object Repository/Page_Mattermost/span_Create Account'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Mattermost/label_This server does not allow open signu_9345de'), 
-    '')
-
 WebUI.closeBrowser()
 

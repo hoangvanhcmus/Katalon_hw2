@@ -5,4 +5,18 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>93ed63a5-1fc2-4a00-bda6-4bcc002b01f2</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>df8fb808-bc4c-4e28-bbdf-d29e11d6e84f</id>
+      <masked>false</masked>
+      <name>usn</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>eaee9f4a-4e86-455f-a685-59445a671626</id>
+      <masked>false</masked>
+      <name>pwd</name>
+   </variable>
 </TestCaseEntity>
